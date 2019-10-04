@@ -1,0 +1,39 @@
+COMO GRAVAR/RENDERIZAR EM ALTA QUALIDADE
+
+Esse é um dos melhores vídeos que eu encontrei quando comecei a editar
+É objetivo, fácil de entender e sem dúvidas você terá um resultado ótimo!
+https://www.youtube.com/watch?v=5T7J3qKyda4
+
+------------------------------------------------------------------------------------------------------
+
+COMO FAZER CINEMATICS
+https://www.youtube.com/watch?v=Yp1bpq4WQT8
+
+------------------------------------------------------------------------------------------------------
+
+CORREÇÃO DE COR
+Eu uso um plugin para o Sony Vegas chamado Magic Bullets Looks
+Ele permite que você crie presets de cor, mas você também pode baixar alguns prontos
+Como por exemplo desse link: https://www.youtube.com/watch?v=xxFZ-LP1CqM
+
+------------------------------------------------------------------------------------------------------
+
+COMO DEIXAR O NOME DE ALGUÉM EM DESTAQUE NO KILLFEED
+
+
+No próprio github dos criadores do HLAE você encontra um tutorial bem simples e rápido de fazer isso
+https://github.com/advancedfx/advancedfx/wiki/Source:mirv_deathmsg
+Os comandos em questão consistem em você gerar um script e utilizar como bind em uma tecla
+No casso do exemplo, a tecla h
+Assim, com a demo aberta, aperte 'h' enquanto estiver na tela do player que deseja destacar o nome
+Abra o console de desenvolvedor, se aparecer "KILLFEED: ONLY LOCAL PLAYER", funcionou!
+Se você quiser voltar ao normal é só apertar a tecla 'h' novamente.
+
+------------------------------------------------------------------------------------------------------
+
+CANAL COM TUTORIAIS
+
+No geral, esse canal é um dos melhores para aprender coisas novas e legais sobre edição de CS:GO
+Aproveite, dê uma olhada por cima nos vídeos do canal, tenho certeza que irá encontrar algo que te agrada.
+
+https://www.youtube.com/channel/UCKKr45VIXGdSycr4he8wnQg
