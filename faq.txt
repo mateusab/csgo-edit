@@ -1,0 +1,2 @@
+Q: Qual programa você usa para editar vídeos?
+A: Eu uso o HLAE (Half Life Advanced Effects) para extrair as jogadas das demos do CS:GO e Sony Vegas para gravar.
